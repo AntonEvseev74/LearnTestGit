@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LearnTestGit</string>
+    <string name="btn_begin_name">Begin</string>
 </resources>
